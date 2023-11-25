@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Colors -->
+    <color name="asset_action_text">#3A90C9</color>
+    <color name="background">#fafafa</color>
+    <color name="buttonBackground">#d6d7d7</color>
+    <color name="buttonBackgroundDark">#B3B3B3</color>
+    <color name="darkDivider">#197ec1</color>
+    <color name="disabledText">#6621425d</color>
+    <color name="expandable_list_group_text">#6E6E6E</color>
+    <color name="failedChip">#ff2600</color>
+    <color name="footerBackground">#E7E7E7</color>
+    <color name="footerText">#3A90C9</color>
+    <color name="headerBackground">#efeff4</color>
+    <color name="headerText">#b0b0b0</color>
+    <color name="hint">#9e9e9e</color>
+    <color name="label_date">@android:color/tertiary_text_light</color>
+    <color name="label_text">#aaaaaa</color>
+    <color name="list_header_background">#1967c1</color>
+    <color name="list_header_text">#ffffff</color>
+    <color name="link">#3A90C9</color>
+    <color name="linkTypeChip">@color/primary_blue</color>
+    <color name="login_background">#197ec1</color>
+    <color name="login_edittext_background">#ffffff</color>
+    <color name="login_edittext_stroke">#0061af</color>
+    <color name="mapBackground">#c0c0c0</color>
+    <color name="navDrawerSelectedItemBackground">#12000000</color>
+    <color name="primary_blue">#197ec1</color>
+    <color name="primary_blue_dark">#0f4d76</color>
+</resources>
